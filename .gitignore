@@ -1,5 +1,6 @@
 # code editors
-.vscode
+/.vscode
+/.vscode*
 
 # Mac OS
 .DS_Store
